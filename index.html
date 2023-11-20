@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <title>12 Pubs | 2023 yo</title>
+
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"
+    type="text/css">
+  <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+
+
+<div class="app">
+    <!-- Start App Wrapper-->
+    <nav class="navbar is-fixed-top is-black" role="navigation" aria-label="main navigation">
+      <div class="navbar-center">
+        <div class="nav-container">
+        <a href="#keep_going" class="navbar-item">
+         
+            <div class="buttons btn-red">
+              <span class="is-size-3">
+                <i class="fas fa-times"></i>
+              </span>
+              <span class="is-size-3"> {{ pending.length }}</span>
+            </div>
+          </a>
+       
+        <a class="navbar-item main-logo" href="#">
+          <img src="img/12pubsxmaslogo01.svg" width="100%" height="100%" alt="12 Pubs Xmas | 2022 ">
+        </a>
+
+        <a href="#done_and_dusted" class="navbar-item">
+         
+          
+            <div class="buttons btn-green">
+
+              <span class="is-size-3">
+                <!--<img src="img/empty-pint.svg" alt="" width="30px" height="auto">-->
+                <i class="fas fa-check"></i>
+              </span>
+              <span class="is-size-3"> {{ completed.length }}</span>
+            </div>
+          
+          </a>
+        </div>
+      </div>
+
+    </nav>
+    
+    <section id="keep_going">
+        <div class="container">
+                <section class="todo-wrapper" >
+
+                  <div v-if="pending.length > 0" >
+                      <!-- <h3 class="is-size-3">Keep drinking! You have {{ pending.length }} pubs remaining.</h3> -->
+                      <transition-group name="todo-item" tag="div" class="todo-list">
+                          <span v-for="(item, index) in pending" v-bind:key="item.title" class="btn-grad">
+                              <label v-bind:for="'item_' + item.id" class="button-complete button is-success">
+                                  <input class="todo-checkbox" v-bind:id="'item_' + item.id" v-model="item.done" type="checkbox">
+                                  <i class="fas fa-check-circle is-size-3"></i>
+                                  <span class="todo-text has-text-weight-medium is-size-4" v-bind:id="'item_' + item.id">Finished Your Drink?</span>
+                              </label>
+                      
+
+              <!-- Start of card-->
+							  <div class="card">
+								  <div class="card__side card__side--front card__side--front-2">                
+									<div class="card__picture card__picture--2">
+										&nbsp;
+										<img v-bind:src="'/img/' + item.image" width="100%" height="100%" alt="" class="card__img" />
+									  </div>
+
+									  <h4 class="card__heading">
+										<span class="card__heading-span card__heading-span--2 is-size-4-mobile" v-bind:id="'item_' + item.id">
+										  {{ item.title }}
+										</span>
+									  </h4>
+
+									  <div class="card__details">
+										<ul>
+
+										  <li>
+											<p class="todo-text" v-bind:id="'item_' + item.id">
+                          <span class="is-size-4 is-red is-uppercase has-text-weight-medium">Address</span><br>
+                        {{ item.location }}<br>
+                        <!-- <hr class="promo-hr"> -->
+                        <i class="fas fa-map-marker-alt"></i> <a v-bind:href="item.map" target="_blank">Google map</a>
+                        <br><i class="fas fa-phone"></i>
+                          {{ item.contact }}</p>
+										  </li>
+										  
+
+										  <li>
+											<p class="todo-text " v-bind:id="'item_' + item.id">
+                          <span class="is-size-4 is-red is-uppercase has-text-weight-medium">Distance to next pub</span><br>
+                          <!-- <hr class="promo-hr"> -->
+											  <i class="fas fa-walking"></i> {{ item.distance }}</p>
+										  </li>
+										  <li class="quote-bg hero-bkg-animated"> 
+                        <p class="is-size-4 has-text-weight-medium" v-bind:id="'item_' + item.id">
+											{{ item.quote }} </p> 
+											<span class="is-size-4" v-bind:id="'item_' + item.id">
+											{{ item.author }}</span>
+										  </li>                            
+										</ul>
+									  </div>
+									</div> 
+									</div><!-- end card -->
+                  
+						 
+						  </span> 
+						</transition>
+					</div><!-- Pending length -->
+
+                  <!-- Success Message -->
+                  <transition name="slide-fade">
+                  
+                    <div v-if="!pending.length" class="congrats-message">
+
+                      <script>
+                            // Random Image Generator
+
+                            var randomImage = new Array();
+
+                            randomImage[0] = "https://12pubsxmas.com/img/cheers.gif";
+                            randomImage[1] = "https://12pubsxmas.com/img/seinfeld.gif";
+                            randomImage[2] = "https://12pubsxmas.com/img/old-school.gif";
+                            randomImage[3] = "https://12pubsxmas.com/img/home-alone.gif";
+                            randomImage[4] = "https://12pubsxmas.com/img/wedding-crasher.gif";
+                            randomImage[5] = "https://12pubsxmas.com/img/elf.gif";
+
+                            function getRandomImage() { 
+                            var number = Math.floor(Math.random()*randomImage.length);
+                            document.write('<img src="'+randomImage[number]+'" class="success-image"/>');
+                            }
+                            getRandomImage()
+
+                        </script>
+                        <h3 class="has-text-centered is-size-2 has-text-weight-semibold is-red margin-top-sm">Congratulations!  You did it!</h3>
+                        <p class="has-text-centered is-size-4">Hit refresh to see more celebrations (6 total).<br>
+                          <button class="button is-link is-rounded is-size-5 margin-top-sm" onClick="window.location.reload();"><span class="icon is-small">
+                            <i class="fas fa-redo-alt"></i>
+                          </span> <span>Refresh Page</span></button>
+                        </p>
+                        
+                
+                      <!--  <img src="img/old-school.gif" alt="celebration" class="success-image">
+                     <img src="https://media.giphy.com/media/slOhiKAVFgwr6/giphy.gif" alt="Congrats!"> -->
+                      
+                      <div class="confetti">
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                          <div class="confetti-piece"></div>
+                        </div>
+                    </div> 
+                  
+                  </transition>
+                  <!-- End Success Message -->
+
+                  <!-- Completed Pubs -->
+
+              
+                  <div v-if="completed.length > 0 && showComplete" id="done_and_dusted">
+                    
+                      <div class="card_cp">
+                          <div class="card_cp__side card_cp__side--front card_cp__side--front-2"> 
+
+                              <h4 class="has-text-centered is-size-3 has-text-weight-semibold margin-top-md">
+                                
+                             <span class="is-red">{{ completed.length }}</span> Pubs Down. <span class="is-green">{{ pending.length }}</span> To Go!
+                                  <!-- <span class="card_cp__heading-span card_cp__heading-span--2 is-size-4-mobile" >
+                                     
+                                  </span> -->
+                                  </h4>
+                    <transition-group name="todo-item" tag="ul" class="todo-list archived">
+                     
+                      <li v-for="(item, index) in completed" v-bind:key="item.title">
+                        <label v-bind:for="'item_' + item.id">
+                          <input class="todo-checkbox" v-bind:id="'item_' + item.id" v-model="item.done" type="checkbox">
+
+                          <span class="todo-text is-size-4">{{ item.title }}</span></label>
+
+                      </li>
+                      
+                      </transition>
+
+                    </div>
+                      </div>
+                      
+                  </div>
+              
+                   
+                </section>
+
+
+
+        </div> <!-- end containter -->
+	</section>
+</div><!-- end App Wrapper-->
+<a id="back2Top" title="Back to top" href="#"><i class="fas fa-chevron-up"></i></a>
+
+<footer class="footer has-background-black">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Copyright 2023. ©50W Fort Mason. All rights reserved.
+      </p>
+    </div>
+  </footer>
+
+
+  <!-- Preloader -->
+      
+<div class="preloader-wrapper">
+  <div id="preloader">
+    <div id="loader"></div>
+  </div>
+</div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.3/vue.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+ 
+  <script src="js/main.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.13.2/TweenMax.min.js"></script>
+
+
+ <script>
+  $(window).on("load",function(){
+    $(".preloader-wrapper").fadeOut("slow");
+  });
+</script>
+  <!-- Scripts -->
+
+</body>
+
+</html>
