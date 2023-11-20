@@ -6,7 +6,7 @@ return {
 todoList: [
 
 
-{"id":0,"title":"1. Finnegan's Wake","done":false,"location":"937 Cole St, San Francisco, CA 94117", "map":'https://maps.app.goo.gl/6Zwh5VexXxEX2oUCA', "image":'pub-0007.jpg', "distance":"0.4 miles, 8 mins (Kezar)", "contact":"(415) 731-6119", "quote":"Will cocktails be served at your daughter's princess party or shall I tailgate in your driveway?"},
+{"id":0,"title":"1. Finnegan's Wake","done":false,"location":"937 Cole St, San Francisco, CA 94117", "map":'https://maps.app.goo.gl/6Zwh5VexXxEX2oUCA', "image":'pub-0007.jpg', "distance":"0.4 miles, 8 mins (Kezar)", "contact":"(415) 731-6119", "quote":"True of False: 50W Fort Mason had a secret tunnel to aisle 6 in the Marina Safeway?"},
 
 {"id":1,"title":"2. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.9 miles, 18 mins (Little Shamrock)", "contact":"(415) 386-9292", "quote":"You're not drunk if you can lie on the floor without holding on.", "author":"― Dean Martin"},
 
@@ -15,11 +15,11 @@ todoList: [
 {"id":3,"title":"4. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg', "distance":"Too far, Uber time to The Dubliner!", "contact":"(415) 564-6626", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
 
 
-{"id":4,"title":"5. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-001.jpg', "distance":"0.3 miles, 6 mins", "contact":"(415) 566-9444", "quote":"Dear Alcohol, we had a deal that you would make me prettier, funnier and a better dancer. I saw the video, we need to talk."},
+{"id":4,"title":"5. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-001.jpg', "distance":"0.3 miles, 6 mins (McCarthy's)", "contact":"(415) 566-9444", "quote":"Dear Alcohol, we had a deal that you would make me prettier, funnier and a better dancer. I saw the video, we need to talk."},
 
-{"id":5,"title":"6. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"394 ft, 2 mins", "contact":"(415) 702-6227", "quote":"I drink alcohol to drown my problems, unfortunately my problems are damn good swimmers."},
+{"id":5,"title":"6. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"1 mile, 24 mins (Karl's Beacon)", "contact":"(415) 702-6227", "quote":"I drink alcohol to drown my problems, unfortunately my problems are damn good swimmers."},
 
-{"id":6,"title":"7. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 6 mins", "contact":"(415) 592-9703", "quote":"I read an article that said if you drink every day you might be an alcoholic… thank God I only drink every night."},
+{"id":6,"title":"7. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 7 mins (O'Briens)", "contact":"(415) 592-9703", "quote":"I read an article that said if you drink every day you might be an alcoholic… thank God I only drink every night."},
 
 {"id":7,"title":"8. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/1HG8vcK43v2BtR6y7', "image":'pub-006.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 731-8900", "quote":"I’m not as think as you drunk I am."},
 
