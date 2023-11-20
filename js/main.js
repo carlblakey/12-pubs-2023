@@ -6,9 +6,9 @@ return {
 todoList: [
 
 
-{"id":0,"title":"1. Finnegan's Wake","done":false,"location":"937 Cole St, San Francisco, CA 94117", "map":'https://maps.app.goo.gl/6Zwh5VexXxEX2oUCA', "image":'pub-0007.jpg', "distance":"0.4 miles, 8 mins", "contact":"(415) 731-6119", "quote":"Will cocktails be served at your daughter's princess party or shall I tailgate in your driveway?"},
+{"id":0,"title":"1. Finnegan's Wake","done":false,"location":"937 Cole St, San Francisco, CA 94117", "map":'https://maps.app.goo.gl/6Zwh5VexXxEX2oUCA', "image":'pub-0007.jpg', "distance":"0.4 miles, 8 mins (Kezar)", "contact":"(415) 731-6119", "quote":"Will cocktails be served at your daughter's princess party or shall I tailgate in your driveway?"},
 
-{"id":1,"title":"2. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.4 miles, 8 mins", "contact":"(415) 386-9292", "quote":"You're not drunk if you can lie on the floor without holding on.", "author":"― Dean Martin"},
+{"id":1,"title":"2. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.9 miles, 19 mins (Little Shamrock)", "contact":"(415) 386-9292", "quote":"You're not drunk if you can lie on the floor without holding on.", "author":"― Dean Martin"},
 
 {"id":2,"title":"3. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.9 miles, 18 mins", "contact":"(415) 661-0060", "quote":"Time is never wasted when you're wasted all the time.", "author":"― Catherine Zandonella"},
 
