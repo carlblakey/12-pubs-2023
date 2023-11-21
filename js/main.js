@@ -19,7 +19,7 @@ todoList: [
 
 {"id":5,"title":"6. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-002.jpg', "distance":"1 mile, 24 mins (Karl's Beacon)", "contact":"(415) 702-6227", "quote":"It is illegal to feed alcohol to Moose in Alaska and fishes in Ohio."},
 
-{"id":6,"title":"7. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 7 mins (O'Briens)", "contact":"(415) 592-9703", "quote":"I read an article that said if you drink every day you might be an alcoholic… thank God I only drink every night."},
+{"id":6,"title":"7. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 7 mins (O'Briens)", "contact":"(415) 592-9703", "quote":"The term “Dipsomania” refers to abnormal cravings for alcohol."},
 
 {"id":7,"title":"8. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/1HG8vcK43v2BtR6y7', "image":'pub-006.jpg', "distance":"0.2 miles, 5 mins (Four Deuces)", "contact":"(415) 731-8900", "quote":"I’m not as think as you drunk I am."},
 
