@@ -10,7 +10,7 @@ todoList: [
 
 {"id":1,"title":"2. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.9 miles, 18 mins (Little Shamrock)", "contact":"(415) 386-9292", "quote":"Brewmeister’s Armageddon is the strongest beer in the world. Its alcohol content is around 65%."},
 
-{"id":2,"title":"3. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins (Blackthorn)", "contact":"(415) 661-0060", "quote":"Time is never wasted when you're wasted all the time.", "author":"― Catherine Zandonella"},
+{"id":2,"title":"3. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins (Blackthorn)", "contact":"(415) 661-0060", "quote":"1 in 5 top 100 country music songs refer to alcohol."},
 
 {"id":3,"title":"4. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-2.jpg', "distance":"Too far, Uber time to The Dubliner!", "contact":"(415) 564-6626", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
 
