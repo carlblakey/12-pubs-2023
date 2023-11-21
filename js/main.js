@@ -6,9 +6,9 @@ return {
 todoList: [
 
 
-{"id":0,"title":"1. Finnegan's Wake","done":false,"location":"937 Cole St, San Francisco, CA 94117", "map":'https://maps.app.goo.gl/6Zwh5VexXxEX2oUCA', "image":'pub-0007.jpg', "distance":"0.4 miles, 8 mins (Kezar)", "contact":"(415) 731-6119", "quote":"True of False: 50W Fort Mason had a secret tunnel to aisle 6 in the Marina Safeway?"},
+{"id":0,"title":"1. Finnegan's Wake","done":false,"location":"937 Cole St, San Francisco, CA 94117", "map":'https://maps.app.goo.gl/6Zwh5VexXxEX2oUCA', "image":'pub-0007.jpg', "distance":"0.4 miles, 8 mins (Kezar)", "contact":"(415) 731-6119","quote":"An intelligent man is sometimes forced to be drunk to spend time with his fools.", "author":"Ernest Hemingway"},
 
-{"id":1,"title":"2. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.9 miles, 18 mins (Little Shamrock)", "contact":"(415) 386-9292", "quote":"You're not drunk if you can lie on the floor without holding on.", "author":"― Dean Martin"},
+{"id":1,"title":"2. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.9 miles, 18 mins (Little Shamrock)", "contact":"(415) 386-9292", "quote":"Work is the curse of the drinking classes.", "author":"― Oscar Wilde"},
 
 {"id":2,"title":"3. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins (Blackthorn)", "contact":"(415) 661-0060", "quote":"Time is never wasted when you're wasted all the time.", "author":"― Catherine Zandonella"},
 
@@ -21,14 +21,13 @@ todoList: [
 
 {"id":6,"title":"7. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 7 mins (O'Briens)", "contact":"(415) 592-9703", "quote":"I read an article that said if you drink every day you might be an alcoholic… thank God I only drink every night."},
 
-{"id":7,"title":"8. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/1HG8vcK43v2BtR6y7', "image":'pub-006.jpg', "distance":"0.2 miles, 4 mins", "contact":"(415) 731-8900", "quote":"I’m not as think as you drunk I am."},
+{"id":7,"title":"8. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/1HG8vcK43v2BtR6y7', "image":'pub-006.jpg', "distance":"0.2 miles, 5 mins (Four Deuces)", "contact":"(415) 731-8900", "quote":"I’m not as think as you drunk I am."},
 
-
-{"id":8,"title":"9. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 14 mins", "contact":"(415) 566-9122", "quote":"Life is not a fairy tale, if you lose a shoe at midnight, you're drunk."},
+{"id":8,"title":"9. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 16 mins (Riptide)", "contact":"(415) 566-9122", "quote":"Life is not a fairy tale, if you lose a shoe at midnight, you're drunk."},
 
 {"id":9,"title":"10. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-06.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":"If at first you don't succeed, try drinking a beer while you do it. You'll be amazed at how much less you care."},
 
-{"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.1 miles, 2 mins", "contact":"(415) 751-1122", "quote":"Spilling a beer is the adult equivalent to losing a balloon.",},
+{"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins (Bitter End)", "contact":"(415) 751-1122", "quote":"Spilling a beer is the adult equivalent to losing a balloon.",},
 
 {"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-0012.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"I know I should give up drinking but I am not a quitter."},
 ],
