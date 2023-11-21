@@ -25,7 +25,7 @@ todoList: [
 
 {"id":8,"title":"9. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 16 mins (Riptide)", "contact":"(415) 566-9122", "quote":"Until 2011, in Russia, anything under 10% alcohol was considered foodstuff and not alcoholic."},
 
-{"id":9,"title":"10. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-06.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":" A gin & tonic will glow under a UV light because tonic contains quinines, which are UV light reactive."},
+{"id":9,"title":"10. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-0010.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":" A gin & tonic will glow under a UV light because tonic contains quinines, which are UV light reactive."},
 
 {"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins (Bitter End)", "contact":"(415) 751-1122", "quote":"Germany, instead of Father’s Day, has a “Men’s Day” where men young and old cart wagons filled with booze and food around.",},
 
