@@ -29,7 +29,7 @@ todoList: [
 
 {"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins (Bitter End)", "contact":"(415) 751-1122", "quote":"Germany, instead of Father’s Day, has a “Men’s Day” where men young and old cart wagons filled with booze and food around.",},
 
-{"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-0012.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"During prohibition, Herbert Hoover would go to the Belgian embassy to have martinis, as it was not illegal to possess alcohol on foreign soil."},
+{"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-0012.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"You can swim in a pool of beer at the Schloss Starkenberger brewery in Tarrentz, Austria. "},
 ],
 
 new_todo: '',
