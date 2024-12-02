@@ -6,17 +6,27 @@ return {
 todoList: [
 
 
+//{"id":0,"title":"1. Finnegan's Wake","done":false,"location":"937 Cole St, San Francisco, CA 94117", "map":'https://maps.app.goo.gl/6Zwh5VexXxEX2oUCA', "image":'pub-0007.jpg', "distance":"0.4 miles, 8 mins (Kezar)", "contact":"(415) 731-6119","quote":"Hangover in Norwegian is directly translated to “carpenters in the head.”"},
 {"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-001.jpg', "distance":"0.3 miles, 6 mins (McCarthy's)", "contact":"(415) 566-9444", "quote":"Texas state law prohibits taking more than three sips of beer at a time while standing."},
-{"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-00012.jpg', "distance":"1 mile, 24 mins (Karl's Beacon)", "contact":"(415) 702-6227", "quote":"It is illegal to feed alcohol to Moose in Alaska and fishes in Ohio."},
-{"id":2,"title":"3. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 7 mins (O'Briens)", "contact":"(415) 592-9703", "quote":"The term “Dipsomania” refers to abnormal cravings for alcohol."},
-{"id":3,"title":"4. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins", "contact":"(415) 665-1223", "quote":"The problem with the world is that everyone is a few drinks behind.", "author":"― Humphrey Bogart"},
-{"id":4,"title":"5. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/1HG8vcK43v2BtR6y7', "image":'pub-006.jpg', "distance":"0.2 miles, 5 mins (Four Deuces)", "contact":"(415) 731-8900", "quote":"The pressure in a champagne bottle is 90 pounds per square inch, that is three times the pressure in automobile tires."},
-{"id":5,"title":"6. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 16 mins (Riptide)", "contact":"(415) 566-9122", "quote":"Until 2011, in Russia, anything under 10% alcohol was considered foodstuff and not alcoholic."},
-{"id":6,"title":"7. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-0010.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":" A gin & tonic will glow under a UV light because tonic contains quinines, which are UV light reactive."},
-{"id":7,"title":"8. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins (Blackthorn)", "contact":"(415) 661-0060", "quote":"1 in 5 top 100 country music songs refer to alcohol."},
 
-{"id":8,"title":"9. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.9 miles, 18 mins (Little Shamrock)", "contact":"(415) 386-9292", "quote":"Brewmeister’s Snake Venom is the strongest beer in the world. Its alcohol content is around 65%."},
-{"id":9,"title":"10. The Mad Dog in the Fog","done":false,"location":"530 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/ZDEceBtWNHCBKFr87', "image":'pub-9.jpg', "distance":"348 ft, 1 min", "contact":"(415) 664-2555", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
+{"id":1,"title":"2. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.9 miles, 18 mins (Little Shamrock)", "contact":"(415) 386-9292", "quote":"Brewmeister’s Snake Venom is the strongest beer in the world. Its alcohol content is around 65%."},
+
+{"id":2,"title":"3. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins (Blackthorn)", "contact":"(415) 661-0060", "quote":"1 in 5 top 100 country music songs refer to alcohol."},
+
+{"id":3,"title":"4. Blackthorn Tavern","done":false,"location":"834 Irving St, San Francisco, CA 94122", "map":'https://goo.gl/maps/2UitTz1sUPzsZPG77', "image":'pub-0009.jpg', "distance":"Too far, Uber time to The Dubliner!", "contact":"(415) 564-6626", "quote":"Fear of an empty glass has a scientific name, Cenosillicaphobia"},
+
+
+{"id":4,"title":"5. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-001.jpg', "distance":"0.3 miles, 6 mins (McCarthy's)", "contact":"(415) 566-9444", "quote":"Texas state law prohibits taking more than three sips of beer at a time while standing."},
+
+{"id":5,"title":"6. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-00012.jpg', "distance":"1 mile, 24 mins (Karl's Beacon)", "contact":"(415) 702-6227", "quote":"It is illegal to feed alcohol to Moose in Alaska and fishes in Ohio."},
+
+{"id":6,"title":"7. Karl's Beacon","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://g.page/karlsbeaconbar?share', "image":'pub-005.jpg', "distance":"0.3 miles, 7 mins (O'Briens)", "contact":"(415) 592-9703", "quote":"The term “Dipsomania” refers to abnormal cravings for alcohol."},
+
+{"id":7,"title":"8. O'Brien's","done":false,"location":"1940 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/1HG8vcK43v2BtR6y7', "image":'pub-006.jpg', "distance":"0.2 miles, 5 mins (Four Deuces)", "contact":"(415) 731-8900", "quote":"The pressure in a champagne bottle is 90 pounds per square inch, that is three times the pressure in automobile tires."},
+
+{"id":8,"title":"9. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 16 mins (Riptide)", "contact":"(415) 566-9122", "quote":"Until 2011, in Russia, anything under 10% alcohol was considered foodstuff and not alcoholic."},
+
+{"id":9,"title":"10. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-0010.jpg', "distance":"Too far, Uber time to The Plough & Stars!", "contact":"(415) 681-8433", "quote":" A gin & tonic will glow under a UV light because tonic contains quinines, which are UV light reactive."},
 
 {"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins (Bitter End)", "contact":"(415) 751-1122", "quote":"Germany, instead of Father’s Day, has a “Men’s Day” where men young and old cart wagons filled with booze and food around.",},
 
