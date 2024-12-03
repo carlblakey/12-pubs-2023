@@ -21,7 +21,7 @@ todoList: [
 
 {"id":6,"title":"7. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-0010.jpg', "distance":"Too far, Uber time to The Little Shamrock", "contact":"(415) 681-8433", "quote":" A gin & tonic will glow under a UV light because tonic contains quinines, which are UV light reactive."},
 
-{"id":7,"title":"8. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.2 miles, 4 mins (Blackthorn)", "contact":"(415) 661-0060", "quote":"1 in 5 top 100 country music songs refer to alcohol."},
+{"id":7,"title":"8. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.9 miles, 19 mins (Kezar Pub)", "contact":"(415) 661-0060", "quote":"1 in 5 top 100 country music songs refer to alcohol."},
 
 {"id":8,"title":"9. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.4 miles, 9 mins (Mad Dog in the Fog)", "contact":"(415) 386-9292", "quote":"Brewmeister’s Snake Venom is the strongest beer in the world. Its alcohol content is around 65%."},
 
