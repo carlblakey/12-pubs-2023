@@ -19,13 +19,13 @@ todoList: [
 {"id":5,"title":"6. The Four Deuces","done":false,"location":"2319 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/pPV9Xm4WHvgFWEdP8', "image":'pub-007.jpg', "distance":"0.8 miles, 16 mins (Riptide)", "contact":"(415) 566-9122", "quote":"Guinness became vegan in 2017 by removing isinglass, a fish byproduct, from its filtration process. Slainte, vegans!"},
 
 
-{"id":6,"title":"7. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-0010.jpg', "distance":"Too far, Uber time to The Little Shamrock", "contact":"(415) 681-8433", "quote":" A gin & tonic will glow under a UV light because tonic contains quinines, which are UV light reactive."},
+{"id":6,"title":"7. The Riptide","done":false,"location":"3639 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/cssMXiT4wxoEX4ym9', "image":'pub-0010.jpg', "distance":"Too far, Uber to The Little Shamrock", "contact":"(415) 681-8433", "quote":" A gin & tonic will glow under a UV light because tonic contains quinines, which are UV light reactive."},
 
 {"id":7,"title":"8. The Little Shamrock","done":false,"location":"807 Lincoln Way, San Francisco, CA 94122", "map":'https://goo.gl/maps/3BXSkJzb3KR74xuy6', "image":'pub-4.jpg', "distance":"0.9 miles, 19 mins (Kezar Pub)", "contact":"(415) 661-0060", "quote":"1 in 5 top 100 country music songs refer to alcohol."},
 
 {"id":8,"title":"9. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.4 miles, 9 mins (Mad Dog in the Fog)", "contact":"(415) 386-9292", "quote":"Brewmeister’s Snake Venom is the strongest beer in the world. Its alcohol content is around 65%."},
 
-{"id":9,"title":"10. The Mad Dog in the Fog","done":false,"location":"530 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/ZDEceBtWNHCBKFr87', "image":'pub-9.jpg', "distance":"Too far, Uber time to The Plough and the Stars", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
+{"id":9,"title":"10. The Mad Dog in the Fog","done":false,"location":"530 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/ZDEceBtWNHCBKFr87', "image":'pub-9.jpg', "distance":"Too far, Uber to The Plough and the Stars", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
 
 {"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins (Bitter End)", "contact":"(415) 751-1122", "quote":"Germany, instead of Father’s Day, has a “Men’s Day” where men young and old cart wagons filled with booze and food around.",},
 
