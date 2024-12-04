@@ -25,7 +25,7 @@ todoList: [
 
 {"id":8,"title":"9. Kezar Pub (Wings!)","done":false,"location":"770 Stanyan St, San Francisco, CA 94117", "map":'https://goo.gl/maps/JY5EUQiCi2uwqnM17', "image":'pub-5.jpg', "distance":"0.4 miles, 9 mins (Mad Dog in the Fog)", "contact":"(415) 386-9292", "quote":"The Guinness Storehouse, which was erected in 1904, was the first skyscraper building in the British Isles. "},
 
-{"id":9,"title":"10. The Mad Dog in the Fog","done":false,"location":"530 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/ZDEceBtWNHCBKFr87', "image":'pub-9.jpg', "distance":"Too far, Uber to The Plough and the Stars", "quote":"Homer no function beer well without.", "author":"- Homer Simpson"},
+{"id":9,"title":"10. The Mad Dog in the Fog","done":false,"location":"530 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/ZDEceBtWNHCBKFr87', "image":'pub-9.jpg', "distance":"Too far, Uber to The Plough and the Stars", "quote":"A Waterloo cavalry officer, Ethel M. Richardson, credited Guinness for aiding his recovery, writing in 1928, When I was well enough to eat, I craved a glass of Guinness."},
 
 {"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins (Bitter End)", "contact":"(415) 751-1122", "quote":"Germany, instead of Father’s Day, has a “Men’s Day” where men young and old cart wagons filled with booze and food around.",},
 
