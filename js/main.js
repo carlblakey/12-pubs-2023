@@ -7,7 +7,7 @@ todoList: [
 
 
 {"id":0,"title":"1. The Dubliner West Portal","done":false,"location":"328 W Portal Ave, San Francisco, CA 94127", "map":'https://goo.gl/maps/WQhxSxca1cgE1wcs8', "image":'pub-001.jpg', "distance":"0.3 miles, 6 mins (McCarthy's)", "contact":"(415) 566-9444", "quote":"Guinness commissioned a study in 2000, which found that an estimated 162,719 pints go to waste every year via facial hair."},
-{"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-00012.jpg', "distance":"0.7 miles, 18 mins (Shannon Arms)", "contact":"(415) 702-6227", "quote":"The first Guinness Book of World Records was published to help settle pub arguments."},
+{"id":1,"title":"2. McCarthy's Irish Bar","done":false,"location":"46 West Portal Ave, San Francisco, CA  94127", "map":'https://goo.gl/maps/jdqSXVLN9ZCZ1JGH7', "image":'pub-00012.jpg', "distance":"0.7 miles, 18 mins (Shannon Arms)", "contact":"(415) 702-6227", "quote":"The Guinness Book of World records was founded in 1954 for the purpose of settling pub disputes."},
 
 {"id":2,"title":"3. Shannon Arms","done":false,"location":"915 Taraval St, San Francisco, CA 94116", "map":'https://goo.gl/maps/Y8Vb8JH7xmDgb4So8', "image":'pub-03.jpg', "distance":"0.3 miles, 5 mins (Karl's Beacon)", "contact":"(415) 665-1223", "quote":"Guinness's official color is ruby red. The roasted barley's subtle tint becomes visible when you hold the pint up to the light."},
 
@@ -27,9 +27,9 @@ todoList: [
 
 {"id":9,"title":"10. The Mad Dog in the Fog","done":false,"location":"530 Haight St, San Francisco, CA 94117", "map":'https://goo.gl/maps/ZDEceBtWNHCBKFr87', "image":'pub-9.jpg', "distance":"Too far, Uber to The Plough and the Stars", "quote":"A Waterloo cavalry officer, Ethel M. Richardson, credited Guinness for aiding his recovery, writing in 1928, When I was well enough to eat, I craved a glass of Guinness."},
 
-{"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins (Bitter End)", "contact":"(415) 751-1122", "quote":"Germany, instead of Father’s Day, has a “Men’s Day” where men young and old cart wagons filled with booze and food around.",},
+{"id":10,"title":"11. The Plough and the Stars","done":false,"location":"116 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/MMv6oGqZvc2mm9299', "image":'pub-11.jpg', "distance":"0.2 miles, 4 mins (Bitter End)", "contact":"(415) 751-1122", "quote":"A 20-ounce pint of Guinness only has 210 calories – that’s less than a glass of milk or orange juice!",},
 
-{"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-0012.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"You can swim in a pool of beer at the Schloss Starkenberger brewery in Tarrentz, Austria. "},
+{"id":11,"title":"12. The Bitter End","done":false,"location":"441 Clement St, San Francisco, CA 94118", "map":'https://goo.gl/maps/fkx1EKaceZhWmvcB9', "image":'pub-0012.jpg', "distance":"Go home - You're drunk!", "contact":"(415) 221-9538", "quote":"Half of all pints drunk in Ireland are Guinness, however, 40% of all Guinness is sold in Africa."},
 ],
 
 new_todo: '',
