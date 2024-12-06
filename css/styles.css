@@ -12910,6 +12910,10 @@ li.quote-bg {
     line-height: 2rem;
     height: 11rem;
   }
+
+  .app {
+    background-size: 10%;
+}
 }
 
 /* Show Hide */
