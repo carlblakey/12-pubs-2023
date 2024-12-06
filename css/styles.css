@@ -479,8 +479,6 @@ hgroup,
 section {
   display: block;
 }
-body { background-image: url("/img/guinness-01.svg");
-  background-repeat: repeat-x;}
 
 body,
 button,
@@ -12137,7 +12135,10 @@ print {
 }
 
 .app {
-  background: #f8f8f8;
+  /*background: #f8f8f8;*/
+  background-image: url("/img/guinness-01.svg");
+  background-size: 5%;
+  background-repeat: repeat;
   border-radius: 4px;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
