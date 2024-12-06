@@ -479,6 +479,8 @@ hgroup,
 section {
   display: block;
 }
+body { background-image: url("/img/guinness-01.svg");
+  background-repeat: repeat-x;}
 
 body,
 button,
