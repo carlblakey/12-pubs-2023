@@ -12146,7 +12146,7 @@ print {
 
 }
 
-app::before {
+.app::before {
   content: "";
  position: absolute;
   width: 200%;
